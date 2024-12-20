@@ -89,7 +89,7 @@ def draw_branch(t, length, level):
 
 def draw_small_snowflake():
     screen = turtle.Screen()
-    screen.bgcolor("white")
+   
 
     snowflake = turtle.Turtle()
     snowflake.speed(0)
